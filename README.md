@@ -1,4 +1,3 @@
-
 Olá, me chamo Valtercio Junior tenho 20 anos e faço o curso de Análise e Desenvolvimento de Sistemas no IFRN.
 
 Sempre fui apaixonado por tecnologia e a mais de 1 ano comecei no universo da programação e pretendo divulgar nessa página alguns programas que criei ultilizando a linguagem python para testes de automação ou só diversão.
