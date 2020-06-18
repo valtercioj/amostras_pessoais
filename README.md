@@ -1,5 +1,3 @@
-# exemplos-de-programas-pessoais
-
 
 Olá, me chamo Valtercio Junior tenho 20 anos e faço o curso de Análise e Desenvolvimento de Sistemas no IFRN.
 
