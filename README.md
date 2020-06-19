@@ -4,6 +4,7 @@ Sempre fui apaixonado por tecnologia e a mais de 1 ano comecei no universo da pr
 
 ### Covid19
 
+
 Um programa criado em python ultilizando a técnica de web scraping com Interface Gráfica ultilizando o PySimpleGUI que mostra os dados do Corona Vírus no Rio Grande do Norte e no Brasil.
 
 
