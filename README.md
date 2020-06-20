@@ -27,6 +27,9 @@ Programa Feito em python para navegação no youtube. O programa consiste em voc
 
 [Clique aqui para baixar](https://github.com/valtercioj/youtube)
 
+
 ### Tutorial para acesso com o ngrok
-Imagina você conseguir acessar o seu site de qualquer lugar usando uma ferramenta bem simples
+Imagina você conseguir acessar o seu site de qualquer lugar usando uma ferramenta bem simples.
+
+.
 [veja como aqui](https://valtercioj.github.io/amostras_pessoais/ngrok/)
