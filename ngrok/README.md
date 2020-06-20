@@ -23,4 +23,4 @@ Comando: ngrok.exe http 3000. (execute na mesma porta que abriu no servidor loca
 
 Irá aparecer uma url criada pelo ngrok, quando você entrar no navegador com essa url o ngrok irá fazer o túnel com o seu computador. Assim voce pode mandar a url gerada para qualquer pessoa, que vão conseguir acessar seu site.
 
-[Passo a passo nesse pdf]()
+[Passo a passo nesse pdf](https://github.com/valtercioj/amostras_pessoais/blob/master/ngrok/tutorial_ngrok.pdf)
